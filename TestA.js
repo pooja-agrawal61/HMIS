@@ -18,3 +18,4 @@ console.log('Pooja3');
 console.log('Pooja Agrawal');
 console.log('Don not delete my line');
 console.log('ok noted');
+console.log('Merge automatically');
