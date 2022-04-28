@@ -14,4 +14,4 @@ console.log(osTotalMem);
 console.log('Pooja');
 console.log('paras-1');
 console.log('Pooja2');
-console.log('Paras Kumar Dalal');
+console.log('Pooja3');
