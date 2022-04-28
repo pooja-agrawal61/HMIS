@@ -19,3 +19,4 @@ console.log('Pooja Agrawal');
 console.log('Don not delete my line');
 console.log('ok noted');
 console.log('automatic resolve');
+console.log('Merge automatically');
